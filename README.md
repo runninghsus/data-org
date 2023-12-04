@@ -3,6 +3,9 @@ Yttri-Lab data structure on 16TB hard-drive (Elements)
 
 
 ### Raw data
+
+---
+
 #### videos:
 
 ```
@@ -162,12 +165,17 @@ Yttri-Lab data structure on 16TB hard-drive (Elements)
 │   │   │   │   │   ├── */*1.continuous
 ```
 
+
+---
 ### Processed data
+
+---
+
 #### videos/pose_csv:
 
 ```
 ├── neurobehavior
-│   ├── raw_data
+│   ├── processed_data
 │   │   ├──  videos
 │   │   │   ├── animal_ag25290
 │   │   │   │   ├── 112221
